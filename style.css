@@ -1,0 +1,145 @@
+*{
+    margin:0 ;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    font-family: serif;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 120vh;
+   
+}
+ h1{
+    text-align: center;
+    padding: 1rem ;
+    font-size: 6rem;
+    color: #CD5C5C;
+    
+    background-color:#C0C0C0;
+    border-radius: 1rem ;
+  
+
+}
+.qst{
+    margin: 1rem auto;
+    width:70vw;
+    padding: 2rem;
+    background:#ffe4e1 ;
+    cursor: default;
+    border-radius: 1rem;
+
+}
+h3{
+    color: #CD5C5C;
+}
+h2{
+    
+    background-color:#bc8f8f ;
+    font-size: 40px;
+    
+    
+
+}
+
+
+
+
+.resultat{
+    
+    padding: 1rem;
+    background-color:wheat;
+    text-align: center;
+    font-size: 25px;
+
+    
+    
+
+
+    
+   
+}
+.contenu{
+    background-image: url("image.gif");
+    
+}
+input[type=submit]{
+    text-align: center;
+    background-color: #bc8f8f;
+    padding:16px 32px ;
+
+    margin: 4px 6px;
+    cursor: pointer;
+    
+    
+
+}
+.ok{
+    text-align: center;
+}
+
+
+.one{
+
+font-size: 1.6cm;
+text-align:center;
+color:#2d1cc7;
+
+}
+
+
+
+
+
+
+
+
+.first_body{
+    background-image: url(image.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+
+.case{
+    width: 800px;
+    height: 400px;
+    background-color: #C0C0C0;
+    margin : 100px auto;
+    display: flex;
+    padding: 20px 20px;
+
+}
+
+.titre{
+    font-size: 55px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #CD5C5C ;
+    text-align: center;
+    padding-left: 100px;
+}
+.info{
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+.buton{
+    text-align: center;
+    padding: 80px 20px;
+    padding-left:100px ;
+    
+    
+        
+}
+button{
+    color:#CD5C5C;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
